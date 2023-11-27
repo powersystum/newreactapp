@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//:powersystum.github.io/newreactapp/static/css/main.5cb890fb.css",
+    "main.js": "/http//:powersystum.github.io/newreactapp/static/js/main.c9877a3f.js",
+    "static/js/787.1937f22b.chunk.js": "/http//:powersystum.github.io/newreactapp/static/js/787.1937f22b.chunk.js",
+    "index.html": "/http//:powersystum.github.io/newreactapp/index.html",
+    "main.5cb890fb.css.map": "/http//:powersystum.github.io/newreactapp/static/css/main.5cb890fb.css.map",
+    "main.c9877a3f.js.map": "/http//:powersystum.github.io/newreactapp/static/js/main.c9877a3f.js.map",
+    "787.1937f22b.chunk.js.map": "/http//:powersystum.github.io/newreactapp/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb890fb.css",
+    "static/js/main.c9877a3f.js"
+  ]
+}
